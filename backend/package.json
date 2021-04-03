@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "API de usuário",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json --port 3001"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Eladio Júnior",
+    "email": "eladiojunior@gmail.com",
+    "url": "http://github.com/eladiojunior"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "0.13.0"
+  }
+}

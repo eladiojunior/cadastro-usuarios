@@ -1,0 +1,15 @@
+aside.logo {
+    display: flex;
+    justify-content: flex-start;
+    text-align: center;
+    background-color: var(--bg-logo);
+}
+aside.logo img {
+    padding: 5px;
+    width: 100px;
+}
+aside.logo h1 {
+    font-size: 1.3em;
+    padding: 10px 0px;
+    color: #000000;
+}

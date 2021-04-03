@@ -1,0 +1,5 @@
+main > div {
+    background-color: #fff;
+    box-shadow: var(--shadow-main);
+    border-radius: 5px;
+}

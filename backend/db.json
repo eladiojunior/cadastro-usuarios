@@ -1,0 +1,24 @@
+{
+  "usuarios": [
+    {
+      "id": 2,
+      "nome": "Daniela Mendes dos Santos Magalhães",
+      "email": "danymendes@yahoo.com.br"
+    },
+    {
+      "nome": "Gustavo Mendes Magalhães",
+      "email": "gustavomendes@gmail.com",
+      "id": 3
+    },
+    {
+      "nome": "Eladio Lima Magalhães Júnior",
+      "email": "eladiojunior@gmail.com",
+      "id": 4
+    },
+    {
+      "nome": "Beatriz Mendes Magalhães",
+      "email": "bestrizmendesmagalhaes@gmail.com",
+      "id": 5
+    }
+  ]
+}
